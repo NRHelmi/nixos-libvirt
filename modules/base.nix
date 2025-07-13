@@ -30,7 +30,7 @@ with lib;{
 
     services.openssh.enable = true;
 
-    users.extraUsers.root.password = "toor";
+    users.extraUsers.root.password = "";
     system.stateVersion = "24.11";
   };
 }
