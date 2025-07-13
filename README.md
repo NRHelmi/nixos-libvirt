@@ -50,3 +50,9 @@ Destroy all created resources:
 cd terraform
 terraform destroy
 ```
+
+## 📚 References
+
+- [nixos-generators](https://github.com/nix-community/nixos-generators)
+- [Terraform Libvirt Provider](https://github.com/dmacvicar/terraform-provider-libvirt)
+- [NixOS Manual](https://nixos.org/manual/nixos/stable/)
